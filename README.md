@@ -113,7 +113,14 @@
 
 # Django Tutorial for Beginners | Full Course
 
+El tutorial de Django para principiantes es un curso completo que proporciona una introducción al framework Django, que es una herramienta popular para desarrollar aplicaciones web en Python. El curso cubre los conceptos básicos de Django y te guía a través de la creación de una aplicación web funcional paso a paso.
 
+En este tutorial aprenderemos a usar DJango mediante dos proyectos el primero sera una calculadora con la funcion de suma muy sensilla y la otra se realizara con ayuda de la plantilla travello de Colorlib.
+
+## CALC
+1. En este ejercicio se realzara con ayuda de las carpetas calc, teleusko y templates. 
+   Donde en calc iran todos los archivos python enfocadas directamente a mostrar
+   nuestr calculadora de sumas 
 
 #
 
