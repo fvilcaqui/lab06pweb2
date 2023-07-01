@@ -82,9 +82,11 @@
 <details>
 
 <summary>COMPETENCIAS</summary>
-- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
+- C.c Diseña responsablemente sistemas, componentes o procesos para satisfacer necesidades dentro de restricciones realistas: económicas, medio
+  ambientales, sociales, políticas, éticas, de salud, de seguridad, manufacturación y sostenibilidad.
 - C.m Construye responsablemente soluciones siguiendo un proceso adecuado llevando a cabo las pruebas ajustada a los recursos disponibles del cliente.
-- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción de software e implementación de sistemas de información.
+- C.p Aplica de forma flexible técnicas, métodos, principios, normas, estándares y herramientas de ingeniería necesarias para la construcción 
+  de software e implementación de sistemas de información.
 
 </details>
 
@@ -105,7 +107,7 @@
 1. Crear un proyecto en Django <br>
 
 2. Siga los pasos del video para poder implementar la aplicación de Destinos
-   turísticos <br>
+  turísticos <br>
 
 3. Use git y haga los commits necesarios para manejar correctamente la aplicación.
 
@@ -118,9 +120,46 @@ El tutorial de Django para principiantes es un curso completo que proporciona un
 En este tutorial aprenderemos a usar DJango mediante dos proyectos el primero sera una calculadora con la funcion de suma muy sensilla y la otra se realizara con ayuda de la plantilla travello de Colorlib.
 
 ## CALC
-1. En este ejercicio se realzara con ayuda de las carpetas calc, teleusko y templates. 
+-  En este ejercicio se realzara con ayuda de las carpetas calc, teleusko y templates. 
    Donde en calc iran todos los archivos python enfocadas directamente a mostrar
-   nuestr calculadora de sumas 
+   nuestr calculadora de sumas.
+
+1. En el primer ejercicio, escribimos un hello Navin pero haciendo unas modificaciones en un diccionario 
+   llamado name, le cambiaremos a Kira !!!
+
+<td><img src="./Imagenes_git/calc_1.PNG" alt="calc1"/></td>
+
+2. Luego le agregaremos dos cruadros texto para sumar y colocamos un botton para que se sume,
+
+<td><img src="./Imagenes_git/calc_2.PNG" alt="calc2"/></td>
+
+3. Resultados
+
+<td><img src="./Imagenes_git/calc_3.PNG" alt="calc3"/></td>
+
+#
+
+## Travello
+
+- En este ejercicio utilizaremos una plantilla, de colorlib llamada Travello, la cual modificaremos para poder
+  modificarla y comprender mejor todas las funcionalidades que nos ofrece DJango.
+
+1. 
+
+<td><img src="./Imagenes_git/Travello_1.PNG" alt="travello_1"/></td>
+
+
+2. 
+
+<td><img src="./Imagenes_git/Travello_2.PNG" alt="travello_2"/></td>
+
+3. 
+
+<td><img src="./Imagenes_git/Travello_3.PNG" alt="travello_3"/></td>
+
+4. Luego tambien creamos un formulario donde podemos crear un usario y un Login para poder utilizarlo.
+
+<td><img src="./Imagenes_git/Travello_4.PNG" alt="travello_4"/></td>
 
 #
 
@@ -142,6 +181,7 @@ En este tutorial aprenderemos a usar DJango mediante dos proyectos el primero se
    teoría Django parte4
 
 #
+
 
 ## REFERENCIAS
 
