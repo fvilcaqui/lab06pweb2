@@ -163,6 +163,32 @@ En este tutorial aprenderemos a usar DJango mediante dos proyectos el primero se
 
 #
 
+## Admin
+
+- Utilizaremos la herramienta de Django Super User para poder tener un usuario que se encargue de agregar, eliminar y modificar
+  cada uno de los destinos, esto lo utilizaremos para tener un Administrador de la Pagina que se encargara de Actualizarla cada
+  cierto tiempo. 
+
+1. En esta primera parte Veremos un menu del superusuario, donde vemos que en su base de datos tiene dos Tablas para modificar la 
+  Usuarios y la de Destinos en la cual podremos modificar agregar y eliminar todos los valores de cada uno de los Destinos.
+
+<td><img src="./Imagenes_git/Admin_1.PNG" alt="Admin_2"/></td>
+
+2. En esta parte veremos un formulario en el cual podemos agregar un nuevo destino, en aqui podemos observar que se puede agregar el
+  nombre, una breve descripcion, un precio, un cuadro para marcar si esta en oferta e incluso Ingresar un Imagen.
+
+<td><img src="./Imagenes_git/Admin_2.PNG" alt="Admin_2"/></td>
+
+3. Tambien podemos observar tbm un indice de cada uno de los Destinos previamente creados.
+
+<td><img src="./Imagenes_git/Admin_3.PNG" alt="Admin_2"/></td>
+
+4. Tambien se puede observar aqui un indice de los usuarios y superusuarios previamente ya creados.
+
+<td><img src="./Imagenes_git/Admin_4.PNG" alt="Admin_2"/></td>
+
+#
+
 ## Ejercicios Propuestos
 
 1. Deberán replicar la actividad del video donde se obtiene una plantilla de
